@@ -1,4 +1,5 @@
 # lolviz
+Small edit
 
 By <a href="http://explained.ai/">Terence Parr</a>. See [Explained.ai](http://explained.ai) for more stuff.
 
